@@ -7,7 +7,7 @@ int main(void){
 }
 
 int sayhello(void){
-    printf("Heello ello ello ello llo ello ello ello ellello o ");
+    printf("Heelello o ");
     return 0
 
 }
